@@ -8,7 +8,7 @@ Spring Boot automatically configures required classes depending on the libraries
 A spring boot application can be created in three different ways
 
     Spring boot initialize web interface
-
+    yesr
     Spring boot CLI
 
     Spring boot using spring tool suite IDE
