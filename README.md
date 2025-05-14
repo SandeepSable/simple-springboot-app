@@ -15,6 +15,7 @@ A spring boot application can be created in three different ways
 
 # Content of Quick Start Guide
 
+
  - @ExceptionHandler
  - @ControllerAdvice
  - @RestControllerAdvice
